@@ -1,121 +1,37 @@
- 
-<div align="center">
+# Hi, I'm Sabqal 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:5B21B6,100:9333EA&height=200&section=header&text=HELLO%20WORLD!&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descSize=16" width="100%"/>
+### Web Developer | Indonesia 🇮🇩
 
-# 👾 Hey, I'm Sabiq
+I enjoy building websites and exploring new technologies.
 
-### `Web Developer | Tech Enthusiast | Lifelong Learner`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space!;Building+modern+web+experiences;Learning+%26+Growing+Every+Day;Turning+Ideas+Into+Reality" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sabqal-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabqal)
-
-</div>
+- 💻 Currently learning Web Development
+- 🌱 Improving my JavaScript and React skills
+- 🚀 Interested in building useful web applications
+- 🎯 Always learning something new
 
 ---
 
-## 🧑‍💻 About Me
+### Tech Stack
 
-```javascript
-const developer = {
-  name: "Sabiq",
-  role: "Web Developer",
-  level: "Intermediate",
-  location: "Indonesia 🇮🇩",
-
-  currentlyLearning: [
-    "Advanced JavaScript",
-    "React.js",
-    "Backend Development"
-  ],
-
-  interests: [
-    "Web Development",
-    "UI/UX Design",
-    "Open Source"
-  ],
-
-  motto: "Code. Learn. Build. Repeat. 🚀"
-};
-
-console.log("Thanks for visiting my profile!");
-```
-
-- 🔭 Currently building modern web applications.
-- 🌱 Exploring advanced web technologies.
-- 💡 Interested in clean code and creative solutions.
-- 🎯 Always improving my development skills.
-- ⚡ Fun fact: I love turning coffee into code ☕
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### GitHub Stats
 
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-
-</div>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sabqal&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabqal&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### Connect With Me
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabqal&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabqal&theme=midnight-purple&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabqal&layout=compact&theme=midnight-purple&hide_border=true" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Sabqal-black?style=flat-square&logo=github)](https://github.com/Sabqal)
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Sabqal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabqal&repo=PROJECT_ONE&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/Sabqal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabqal&repo=PROJECT_TWO&theme=midnight-purple&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabqal)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:5B21B6,100:090014&height=120&section=footer" width="100%"/>
-
-**"Keep coding, keep creating, keep growing."**
-
-</div>
+*Keep learning. Keep building.*
