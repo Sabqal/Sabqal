@@ -27,9 +27,9 @@ Check out my repositories and contributions 🚀
 
 ---
 
-### Connect With Me
+### ### Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sabqal-black?style=flat-square&logo=github)](https://github.com/Sabqal)
+\<p>   \<a href="[https://github.com/Sabqal](https://github.com/Sabqal)">     \<img src="[https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://instagram.com/sbiqalf](https://instagram.com/sbiqalf)">     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)" />   \</a>   \<a href="mailto\:muhammadsabiq698\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)" />   \</a> \</p>
 
 ---
 
