@@ -21,9 +21,9 @@ I enjoy building websites and exploring new technologies.
 
 ### GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20My%20Profile-black?style=flat-square&logo=github)](https://github.com/Sabqal)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sabqal&show_icons=true&theme=transparent&hide_border=true)
 
-Check out my repositories and contributions 🚀
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sabqal&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
