@@ -1,6 +1,6 @@
 # Hi, I'm Sabqal 👋
 
-### Web Developer | Indonesia 🇮🇩
+### Web Developer | Indonesia 
 
 I enjoy building websites and exploring new technologies.
 
